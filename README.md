@@ -1,6 +1,6 @@
 # Speed-Calculator
 To download:<br />
-Make sure you have Java 8 installed. Download link here: https://www.java.com/.<br />
+Make sure you have Java 8 installed. Restart computer afterwards. Download link here: https://www.java.com/.<br />
 Click on this link or go to the releases portion of this repo: https://github.com/Wyndcode/Speed-Calculator/releases.<br /><br />
 Windows: Download the Wyndcode-Speed-Calculator.exe<br />
 Mac: Download the Wyndcode-Speed-Calculator.jar<br /><br />
