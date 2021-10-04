@@ -2,7 +2,6 @@
 To download:<br />
 Make sure you have Java 8 installed. Restart computer afterwards. Download link here: https://www.java.com/.<br />
 Click on this link or go to the releases portion of this repo: https://github.com/Wyndcode/Speed-Calculator/releases.<br /><br />
-Windows: Download the Wyndcode-Speed-Calculator.exe<br />
 Steps to use:<br />
 There are 2 scenarios, one in which you take turn 1 and one in which you take turn 2. Mark the turn 2 box and enter the speed of your unit that is taking the turn, cr of the opponent's fastest unit, and whether or not you've been slowed.<br />
 If turn 2 is marked when the battle is created, enemy units can be checked as units who have lapped you to calculate their speeds. <br />
