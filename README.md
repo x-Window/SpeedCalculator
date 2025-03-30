@@ -20,3 +20,6 @@ CR pushed opener/units(can just subtract the CR)<br />
 Revenge set units and BBK<br /><br />
 What is this?:<br />
 It is a Java swing GUI desktop application. I hope you can excuse its clunkiness.
+
+Here is a demo/display:
+![image](https://github.com/user-attachments/assets/ada6e506-9cd0-42c5-8063-500dbc3a64ef)
